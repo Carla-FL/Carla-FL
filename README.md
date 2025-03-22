@@ -1,6 +1,6 @@
 Hello I am Carla FURTADO LEAL 👋🏾!
 
-Let me introduce myself 
+Let me introduce myself 🥸
 - 🤓 I'm currently working as a **Data Scientsit** in the **NLP** field, more specifically in **topic modeling**
 - 🎓 I'm preparing a master's degree in **Data Science and IA**, as well as an **[RNCP diploma](https://www.francecompetences.fr/recherche/rncp/39586/) in data science engineering specializing in data infrastructure or machine learning** at `Paris YNOV Campus`.
 - 🎓 I have a master's degree in **[Data Science speciality Innovation in Business and Society](https://cmid3s.parisnanterre.fr/formation/master/)** from `Paris Nanterre University`.
