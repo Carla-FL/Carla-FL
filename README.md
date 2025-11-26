@@ -1,11 +1,11 @@
 Hello I am Carla FURTADO LEAL 👋🏾!
 
 Let me introduce myself 🥸
-- 🤓 I'm currently working as a **Data Scientsit** in the **NLP** field, more specifically in **topic modeling**
-- 🎓 I'm preparing a master's degree in **Data Science and IA**, as well as an **[RNCP diploma](https://www.francecompetences.fr/recherche/rncp/39586/) in data science engineering specializing in data infrastructure or machine learning** at `Paris YNOV Campus`.
+- 🤓 I worked 2 years as a **Data Scientsit** in the **NLP** field, more specifically in **topic modeling** and as a **Data Analyst** in **Marketing**
+- 🎓 I have a master's degree in **Data Science and IA**, as well as an **[RNCP diploma](https://www.francecompetences.fr/recherche/rncp/39586/) in data science engineering specializing in data infrastructure or machine learning** at `Paris YNOV Campus`.
 - 🎓 I have a master's degree in **[Data Science speciality Innovation in Business and Society](https://cmid3s.parisnanterre.fr/formation/master/)** from `Paris Nanterre University`.
 
-#### 🔄 Last update : 22/10/2024
+#### 🔄 Last update : 26/11/2025
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,7 +14,7 @@ Let me introduce myself 🥸
 </p>
 
 ### 💼 Work Experience
-- **Data Scientist - survey to beneficiaries** at `Cnaf`, Paris (since 1 years)
+- **Data Scientist - survey to beneficiaries** at `Cnaf`, Paris (2 years)
 - **Data Analyst - Marketing** at `Mutuelle National Territoriale`, Paris (2 years)
 
 ### 🤙 How to reach me:
