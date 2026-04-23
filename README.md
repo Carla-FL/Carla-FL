@@ -18,6 +18,13 @@ Let me introduce myself 🥸
 - **Data Scientist - survey to beneficiaries** at `Cnaf`, Paris (2 years)
 - **Data Analyst - Marketing** at `Mutuelle National Territoriale`, Paris (2 years)
 
+## 👩‍💻 &nbsp;Tech Skills
+
+![Python](https://img.shields.io/badge/-Python-E3CF57?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
 ### 🤙 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/carla-furtado-leal-5b88021a8/" target="_blank">
